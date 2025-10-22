@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36603.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "boattags", "boattags\boattags.csproj", "{0ED02A14-193D-4E5C-9BF7-B01168178F9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CakeBuild", "ZZCakeBuild\CakeBuild.csproj", "{77EDFEF8-B0E0-4E85-9C90-A90D41DDF0CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0ED02A14-193D-4E5C-9BF7-B01168178F9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ED02A14-193D-4E5C-9BF7-B01168178F9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ED02A14-193D-4E5C-9BF7-B01168178F9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ED02A14-193D-4E5C-9BF7-B01168178F9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77EDFEF8-B0E0-4E85-9C90-A90D41DDF0CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77EDFEF8-B0E0-4E85-9C90-A90D41DDF0CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77EDFEF8-B0E0-4E85-9C90-A90D41DDF0CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77EDFEF8-B0E0-4E85-9C90-A90D41DDF0CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F199274-E07C-4FC2-BCC8-0B9DB0C0B857}
+	EndGlobalSection
+EndGlobal

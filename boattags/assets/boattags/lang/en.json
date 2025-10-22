@@ -1,0 +1,21 @@
+{
+	"boattags:item-boattags-medalion-boat1": "Boat tag (Sawtooth)",
+	"boattags:item-boattags-medalion-boat2": "Boat tag (Scarab)",
+	"boattags:item-boattags-medalion-boat3": "Boat tag (Full moon)",
+	"boattags:item-boattags-medalion-boat4": "Boat tag (Cascade)",
+	"boattags:item-boattags-medalion-boat5": "Boat tag (Rivers)",
+	"boattags:item-boattags-medalion-boat6": "Boat tag (Night Sky)",
+	"boattags:item-boattags-medalion-boat7": "Boat tag (Keys)",
+	"boattags:item-boattags-medalion-boat8": "Boat tag (Lake)",
+	"boattags:item-boattags-medalion-boat9": "Boat tag (Forge)",
+	"boattags:item-boattags-medalion-boat10": "Boat tag (Cross)",
+	"boattags:item-boattags-medalion-boat11": "Boat tag (Strand)",
+	"boattags:item-boattags-medalion-boat12": "Boat tag (Crescent moon)",
+	"boattags:item-boattags-medalion-boat13": "Boat tag (Trident)",
+	"boattags:item-boattags-medalion-boat14": "Boat tag (Star)",
+	"boattags:item-boattags-medalion-boat15": "Boat tag (Crown)",
+	"boattags:item-boattags-medalion-boat16": "Boat tag (Stiletto)",
+	
+	"game:*-selectionbox-MedalionFP": "Boat tag"
+	
+}

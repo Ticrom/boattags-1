@@ -1,0 +1,63 @@
+[
+	{
+		"enabled": true,
+		"side": "server",
+		"op": "addmerge",
+		"file": "game:entities/nonliving/boat-sailed.json",
+		"path": "/client/behaviors",
+		"value": [{ "code": "ownable" }]
+	},
+	{
+		"enabled": true,
+		"side": "server",
+		"op": "addmerge",
+		"file": "game:entities/nonliving/boat-sailed.json",
+		"path": "/server/behaviors",
+		"value": [{ "code": "ownable" }]
+	},
+	{
+		"enabled": true,
+		"side": "server",
+		"op": "addmerge",
+		"file": "game:entities/nonliving/boat-sailed.json",
+		"path": "/behaviorConfigs/rideableaccessories/wearableSlots",
+		"value": [
+				{
+					"code": "boat",
+					"forCategoryCodes": ["boat"],
+					"attachmentPointCode": "MedalionFP",
+					"emptyInteractPassThrough": true
+				}
+		]
+	},
+	{
+		"enabled": true,
+		"side": "server",
+		"op": "addmerge",
+		"file": "game:entities/nonliving/boat-sailed.json",
+		"path": "/behaviorConfigs",
+		"value": { "ownable": { "groupCode": "mountableboat" } }
+	},
+	{
+		"enabled": true,
+		"side": "server",
+		"op": "addmerge",
+		"file": "game:entities/nonliving/boat-sailed.json",
+		"path": "/behaviorConfigs/selectionboxes/selectionBoxes",
+		"value": ["MedalionFP"]
+	},
+	{
+		"enabled": true,
+		"side": "server",
+		"op": "addmerge",
+		"file": "game:shapes/entity/nonliving/boat/sailed.json",
+		"path": "/elements/0/children/4/children/1/children/1/children/0/children/1/attachmentpoints",
+		"value": [
+					{
+						"code": "MedalionFP",
+						"posX": "0.0","posY": "0.0","posZ": "0.0",
+						"rotationX": "0.0","rotationY": "0.0","rotationZ": "0.0"
+					}
+		]
+	}
+]
