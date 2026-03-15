@@ -6,7 +6,7 @@ Craft a tag medallion and right-click it onto your sailboat to claim it and trac
 
 ## Changes from upstream
 
-- Added a Harmony patch that blocks non-owners from deconstructing a tagged boat. Untagged boats are unaffected.
+- Non-owners cannot deconstruct a tagged boat. Untagged boats are unaffected.
 
 ## Building
 
