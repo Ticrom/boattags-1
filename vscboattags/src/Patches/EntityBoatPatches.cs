@@ -7,7 +7,7 @@ using Vintagestory.API.MathTools;
 using Vintagestory.API.Server;
 using Vintagestory.GameContent;
 
-namespace boattags.Patches
+namespace vscboattags.Patches
 {
     /// <summary>
     /// Patches EntityDeconstructTool.OnHeldInteractStart — the actual entry point for
